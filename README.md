@@ -2,7 +2,6 @@
 
 ![Banner](https://img.shields.io/badge/Data%20Science-Enthusiast-blue?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python&logoColor=white)
-![GitHub followers](https://img.shields.io/github/followers/MoksH-Jain05?label=Followers&style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=MoksH-Jain05)
 
 ---
