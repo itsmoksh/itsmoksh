@@ -11,7 +11,7 @@
 I'm a passionate student currently diving deep into **Data Science** and **Machine Learning**!  
 I love building projects and experimenting with data. My journey involves exploring new tools, algorithms, and sharing my learnings.
 
-- 🔭 **Projects:** [See my work](=https://github.com/itsmoksh?tab=repositories)
+- 🔭 **Projects:** [See my work](https://github.com/itsmoksh?tab=repositories)
 - 🌱 **Currently Learning:** FastAPI, advanced ML algorithms, deep learning, API development
 - 💬 **Ask me about:** Python, pandas, sklearn, numpy, matplotlib, SQL
 
