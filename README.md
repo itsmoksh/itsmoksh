@@ -2,7 +2,7 @@
 
 ![Banner](https://img.shields.io/badge/Data%20Science-Enthusiast-blue?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=MoksH-Jain05)
+![Profile Views](https://komarev.com/ghpvc/?username=itsmoksh)
 
 ---
 
@@ -11,7 +11,7 @@
 I'm a passionate student currently diving deep into **Data Science** and **Machine Learning**!  
 I love building projects and experimenting with data. My journey involves exploring new tools, algorithms, and sharing my learnings.
 
-- 🔭 **Projects:** [See my work](https://github.com/MoksH-Jain05?tab=repositories)
+- 🔭 **Projects:** [See my work](=https://github.com/itsmoksh?tab=repositories)
 - 🌱 **Currently Learning:** FastAPI, advanced ML algorithms, deep learning, API development
 - 💬 **Ask me about:** Python, pandas, sklearn, numpy, matplotlib, SQL
 
@@ -31,8 +31,8 @@ I love building projects and experimenting with data. My journey involves explor
 
 ## 📈 GitHub Stats
 
-![MoksH-Jain05's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoksH-Jain05&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoksH-Jain05&layout=compact&theme=radical)
+![itsmoksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmoksh&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmoksh&layout=compact&theme=radical)
 
 ---
 
