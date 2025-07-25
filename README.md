@@ -39,7 +39,7 @@ I love building projects and experimenting with data. My journey involves explor
 
 ## 🏆 Achievements
 
-- 🚀 Successfully deployed a machine learning project and published the code on GitHub ([see project here](YOUR_PROJECT_REPO_LINK))
+- 🚀 Successfully deployed a machine learning project which predict the health insurance premium amount. ([see project here](https://moksh-health-insurance-premium-prediction.streamlit.app/))
 - 🌱 Continuously learning and building with Python, FastAPI, and data science tools
 - 📚 Sharing projects and educational content on LinkedIn
 
@@ -47,7 +47,7 @@ I love building projects and experimenting with data. My journey involves explor
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MoksH%20Jain-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MoksH%20Jain-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/itsmoksh/)
 
 ---
 
