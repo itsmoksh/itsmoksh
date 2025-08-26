@@ -9,7 +9,7 @@
 I'm a passionate student currently diving deep into **Data Science** and **Machine Learning**!  
 I love building projects and experimenting with data. My journey involves exploring new tools, algorithms, and sharing my learnings.
 
-- 🔭 **Projects:** [See my work](https://github.com/itsmoksh?tab=repositories)
+- 🔭 **Projects:** [![Explore Projects](https://img.shields.io/badge/Explore%20Projects-0074D9?logo=github&logoColor=white&style=flat)](https://github.com/itsmoksh?tab=repositories)
 - 🌱 **Currently Learning:** Deep Learning, NLP, GenAI
 - 💬 **Ask me about:** Python, SQL, Data Visualization, Machine Learning, Deployment, Statistics
 
@@ -43,9 +43,6 @@ I love building projects and experimenting with data. My journey involves explor
 ![PyCharm](https://img.shields.io/badge/PyCharm-1DAF5E?logo=pycharm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
-### Statistics
-Descriptive & Inferential Statistics, Hypothesis Testing
-
 ---
 
 ## 📈 GitHub Stats
@@ -57,8 +54,8 @@ Descriptive & Inferential Statistics, Hypothesis Testing
 
 ## 🏆 Achievements
 
-- 🚀 Successfully deployed a machine learning project that predicts the health insurance premium amount. ([see project here](https://moksh-health-insurance-premium-prediction.streamlit.app/))
-- 🤖 Developed an AI-powered credit risk evaluator, which helps finance officials assess the credit risk associated with an applicant. ([see project here](https://moksh-credit-risk-modelling-project.streamlit.app/))
+- 🚀 Successfully deployed a machine learning project which predicts the health insurance premium amount. [![Live Demo](https://img.shields.io/badge/Live%20Demo-0074D9?logo=rocket&logoColor=white&style=flat)](https://moksh-health-insurance-premium-prediction.streamlit.app/)
+- 🤖 Developed an AI-powered credit risk evaluator, which helps finance officials assess the credit risk associated with an applicant. [![Live Demo](https://img.shields.io/badge/Live%20Demo-0074D9?logo=rocket&logoColor=white&style=flat)](https://moksh-credit-risk-modelling-project.streamlit.app/)
 - 💸 Designed and deployed an interactive Expense Management System using Streamlit to track and manage daily expenses.
 - 🌱 Continuously learning and building with Python, FastAPI, and data science tools
 - 📚 Sharing projects and educational content on LinkedIn
