@@ -1,7 +1,5 @@
 # Hi there 👋, I'm MoksH Jain
 
-![Banner](https://img.shields.io/badge/Data%20Science-Enthusiast-blue?style=flat-square)
-![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=itsmoksh)
 
 ---
@@ -12,20 +10,41 @@ I'm a passionate student currently diving deep into **Data Science** and **Machi
 I love building projects and experimenting with data. My journey involves exploring new tools, algorithms, and sharing my learnings.
 
 - 🔭 **Projects:** [See my work](https://github.com/itsmoksh?tab=repositories)
-- 🌱 **Currently Learning:** FastAPI, advanced ML algorithms, deep learning, API development
-- 💬 **Ask me about:** Python, pandas, sklearn, numpy, matplotlib, SQL
+- 🌱 **Currently Learning:** Deep Learning, NLP, GenAI
+- 💬 **Ask me about:** Python, SQL, Data Visualization, Machine Learning, Deployment, Statistics
 
 ---
 
 ## 🚀 Skills & Tools
 
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+
+### Data Analysis & Visualization
+![Numpy](https://img.shields.io/badge/numpy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-11557C?logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white)
+
+### Machine Learning & MLOps
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?logo=xgboost&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
+
+### Deployment & Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
-![numpy](https://img.shields.io/badge/numpy-013243?logo=numpy&logoColor=white)
-![matplotlib](https://img.shields.io/badge/matplotlib-11557C?logo=matplotlib&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FAFAFA?logo=jupyter&logoColor=orange)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+### IDE & Tools
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-1DAF5E?logo=pycharm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+
+### Statistics
+Descriptive & Inferential Statistics, Hypothesis Testing
 
 ---
 
@@ -38,7 +57,9 @@ I love building projects and experimenting with data. My journey involves explor
 
 ## 🏆 Achievements
 
-- 🚀 Successfully deployed a machine learning project which predict the health insurance premium amount. ([see project here](https://moksh-health-insurance-premium-prediction.streamlit.app/))
+- 🚀 Successfully deployed a machine learning project that predicts the health insurance premium amount. ([see project here](https://moksh-health-insurance-premium-prediction.streamlit.app/))
+- 🤖 Developed an AI-powered credit risk evaluator, which helps finance officials assess the credit risk associated with an applicant. ([see project here](https://moksh-credit-risk-modelling-project.streamlit.app/))
+- 💸 Designed and deployed an interactive Expense Management System using Streamlit to track and manage daily expenses.
 - 🌱 Continuously learning and building with Python, FastAPI, and data science tools
 - 📚 Sharing projects and educational content on LinkedIn
 
@@ -46,7 +67,8 @@ I love building projects and experimenting with data. My journey involves explor
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MoksH%20Jain-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/itsmoksh/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/itsmoksh/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=google-chrome)](https://codebasics.io/portfolio/Moksh-Jain)
 
 ---
 
