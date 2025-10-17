@@ -31,6 +31,7 @@ I love building projects and experimenting with data. My journey involves explor
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?logo=xgboost&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
 ### Deployment & Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
@@ -54,8 +55,8 @@ I love building projects and experimenting with data. My journey involves explor
 
 ## 🏆 Achievements
 
-- 🚀 Successfully deployed a machine learning project which predicts the health insurance premium amount. [![Live Demo](https://img.shields.io/badge/Live%20Demo-0074D9?logo=rocket&logoColor=white&style=flat)](https://moksh-health-insurance-premium-prediction.streamlit.app/)
-- 🤖 Developed an AI-powered credit risk evaluator, which helps finance officials assess the credit risk associated with an applicant. [![Live Demo](https://img.shields.io/badge/Live%20Demo-0074D9?logo=rocket&logoColor=white&style=flat)](https://moksh-credit-risk-modelling-project.streamlit.app/)
+- 🚀 Successfully deployed a machine learning project which predicts the health insurance premium amount. [![Live Demo](https://img.shields.io/badge/Live%20Demo-0074D9?logo=rocket&logoColor=whit[...]
+- 🤖 Developed an AI-powered credit risk evaluator, which helps finance officials assess the credit risk associated with an applicant. [![Live Demo](https://img.shields.io/badge/Live%20Demo-0074[...]
 - 💸 Designed and deployed an interactive Expense Management System using Streamlit to track and manage daily expenses.
 - 🌱 Continuously learning and building with Python, FastAPI, and data science tools
 - 📚 Sharing projects and educational content on LinkedIn
