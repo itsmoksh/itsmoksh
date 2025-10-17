@@ -58,6 +58,7 @@ I love building projects and experimenting with data. My journey involves explor
 - 🚀 Successfully deployed a machine learning project which predicts the health insurance premium amount. [![Live Demo](https://img.shields.io/badge/Live%20Demo-0074D9?logo=rocket&logoColor=whit[...]
 - 🤖 Developed an AI-powered credit risk evaluator, which helps finance officials assess the credit risk associated with an applicant. [![Live Demo](https://img.shields.io/badge/Live%20Demo-0074[...]
 - 💸 Designed and deployed an interactive Expense Management System using Streamlit to track and manage daily expenses.
+- 🛠️ Developed an AI-based system using CNN and transfer learning to detect and classify damage into six categories. [Live Demo](https://moksh-dl-car-damage-detection.streamlit.app/)
 - 🌱 Continuously learning and building with Python, FastAPI, and data science tools
 - 📚 Sharing projects and educational content on LinkedIn
 
