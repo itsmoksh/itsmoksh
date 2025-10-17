@@ -10,8 +10,8 @@ I'm a passionate student currently diving deep into **Data Science** and **Machi
 I love building projects and experimenting with data. My journey involves exploring new tools, algorithms, and sharing my learnings.
 
 - 🔭 **Projects:** [![Explore Projects](https://img.shields.io/badge/Explore%20Projects-0074D9?logo=github&logoColor=white&style=flat)](https://github.com/itsmoksh?tab=repositories)
-- 🌱 **Currently Learning:** Deep Learning, NLP, GenAI
-- 💬 **Ask me about:** Python, SQL, Data Visualization, Machine Learning, Deployment, Statistics
+- 🌱 **Currently Learning:** NLP, GenAI
+- 💬 **Ask me about:** Python, SQL, Data Visualization, Machine Learning, Deep Learning, Deployment, Statistics
 
 ---
 
